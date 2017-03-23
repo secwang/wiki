@@ -3,13 +3,13 @@
 - [Home](/)
 - **Book**
   - [the_linux_programming_interface](/book/the_linux_programming_interface)
-- **Distributed**
-  - [message-based-transaction](/distributed/message-based-transaction)
-  - [transaction](/distributed/transaction)
-- **framework**
-  - [coredata](/framework/coredata)
+  - [math_better_explained](/book/math_better_explained)
+- **System_Design**
+  - [message-based-transaction](/system_design/message-based-transaction)
+  - [transaction](/system_design/transaction)
 - **language**
   - [c](/language/c)
+  - [coredata](/language/coredata)
   - [java](/language/java)
   - [java_bytecode](/language/java_bytecode)
   - [java_concurrency](/language/java_concurrency)
@@ -29,8 +29,6 @@
   - [interface_type_in_golang](/posts/interface_type_in_golang)
   - [lambda101](/posts/lambda101)
   - [learn_vim_again](/posts/learn_vim_again)
-- **readnotes**
-  - [math_better_explained](/readnotes/math_better_explained)
 - **tools**
   - [docker](/tools/docker)
   - [gcc](/tools/gcc)
