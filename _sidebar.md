@@ -1,0 +1,46 @@
+<!-- docs/_sidebar.md -->
+
+- [Home](/)
+- **Book**
+  - [the_linux_programming_interface](/book/the_linux_programming_interface)
+- **Distributed**
+  - [message-based-transaction](/distributed/message-based-transaction)
+  - [transaction](/distributed/transaction)
+- **framework**
+  - [coredata](/framework/coredata)
+- **language**
+  - [c](/language/c)
+  - [java](/language/java)
+  - [java_bytecode](/language/java_bytecode)
+  - [java_concurrency](/language/java_concurrency)
+  - [lua](/language/lua)
+  - [markdown.md](/language/markdown)
+  - [perl.md](/language/perl)
+  - [python](/language/python)
+  - [swift](/language/swift)
+- **misc**
+  - [algorithms](/misc/algorithms)
+  - [bloomfilter](/misc/bloomfilter)
+  - [multiplexing](/misc/multiplexing)
+- **posts**
+  - [cloure_in_go](/posts/cloure_in_go)
+  - [goroutine](/posts/goroutine)
+  - [interface_type_in_golang](/posts/interface_type_in_golang)
+  - [lambda101](/posts/lambda101)
+  - [learn_vim_again](/posts/learn_vim_again)
+- **readnotes**
+  - [math_better_explained](/readnotes/math_better_explained)
+- **tools**
+  - [docker](/tools/docker)
+  - [gcc](/tools/gcc)
+  - [gdb](/tools/gdb)
+  - [ipython](/tools/ipython)
+  - [linux_command](/tools/linux_command)
+  - [makefile](/tools/makefile)
+  - [mongo](/tools/mongo)
+  - [mysql](/tools/mysql)
+  - [redis](/tools/redis)
+  - [service_management](/tools/service_management)
+  - [spacemacs](/tools/spacemacs)
+  - [systemtap](/tools/systemtap)
+  - [vim](/tools/vim)
