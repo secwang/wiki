@@ -1,3 +1,21 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [key principles](#key-principles)
+  - [NSManagedObjectModel](#nsmanagedobjectmodel)
+  - [NSEntityDescription](#nsentitydescription)
+  - [NSAttributeDescription](#nsattributedescription)
+  - [NSRelationshipDescription](#nsrelationshipdescription)
+  - [NSPersistentStoreCoordinator](#nspersistentstorecoordinator)
+  - [NSManagedObjectContext](#nsmanagedobjectcontext)
+  - [NSPredicate](#nspredicate)
+  - [NSFetchRequest](#nsfetchrequest)
+- [xcdatamodeld](#xcdatamodeld)
+- [sqlite](#sqlite)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ---
 title: "coredata"
 date: 2016-06-30 08:00

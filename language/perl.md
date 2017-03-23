@@ -1,3 +1,24 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [perl in basic commond line edit](#perl-in-basic-commond-line-edit)
+- [EOC](#eoc)
+- [perl little trick](#perl-little-trick)
+  - [// operator](#-operator)
+  - [... yada yada](#-yada-yada)
+  - [-> and autobox](#--and-autobox)
+  - [s///r](#sr)
+  - [here doc and inline file](#here-doc-and-inline-file)
+  - [q, qq, and qw notation](#q-qq-and-qw-notation)
+- [system](#system)
+- [opts](#opts)
+- [is pid running](#is-pid-running)
+- [Data::Dumper](#datadumper)
+- [Test::LongString](#testlongstring)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ---
 title: "perl note"
 date: 2016-06-30 08:00

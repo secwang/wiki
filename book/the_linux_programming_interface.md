@@ -1,3 +1,20 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [-std=](#-std)
+- [-D name=definition](#-d-namedefinition)
+- [-g debug information](#-g-debug-information)
+- [-I dir](#-i-dir)
+- [-pedantic](#-pedantic)
+- [-Wall](#-wall)
+- [-Wmissing-prototypes (C and Objective-C only)](#-wmissing-prototypes-c-and-objective-c-only)
+- [-Wsign-compare](#-wsign-compare)
+- [-Wunused-parameter](#-wunused-parameter)
+- [.a .so .o](#a-so-o)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ---  
 title: "gcc"   
 date: 2016-12-24 23:00  

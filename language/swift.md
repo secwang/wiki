@@ -1,3 +1,17 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [list and dictionary](#list-and-dictionary)
+- [closure](#closure)
+- [what is the quention mark.](#what-is-the-quention-mark)
+- [GCD](#gcd)
+- [Bind action to Left mouse down](#bind-action-to-left-mouse-down)
+- [as! and as?](#as-and-as)
+- [singletion](#singletion)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ---
 title: "swift note"
 date: 2016-06-30 08:00

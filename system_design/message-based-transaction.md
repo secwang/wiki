@@ -1,3 +1,20 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [java 如何实现事务](#java-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E4%BA%8B%E5%8A%A1)
+- [回顾理论和问题](#%E5%9B%9E%E9%A1%BE%E7%90%86%E8%AE%BA%E5%92%8C%E9%97%AE%E9%A2%98)
+- [两个例子](#%E4%B8%A4%E4%B8%AA%E4%BE%8B%E5%AD%90)
+- [重新审视问题](#%E9%87%8D%E6%96%B0%E5%AE%A1%E8%A7%86%E9%97%AE%E9%A2%98)
+- [来看可能的方案](#%E6%9D%A5%E7%9C%8B%E5%8F%AF%E8%83%BD%E7%9A%84%E6%96%B9%E6%A1%88)
+  - [mysql XA(eXtended Architecture)](#mysql-xaextended-architecture)
+  - [水平拆分](#%E6%B0%B4%E5%B9%B3%E6%8B%86%E5%88%86)
+  - [TCC(try confirm cancel)](#tcctry-confirm-cancel)
+- [个人偏好](#%E4%B8%AA%E4%BA%BA%E5%81%8F%E5%A5%BD)
+- [可能需要继续关注的问题](#%E5%8F%AF%E8%83%BD%E9%9C%80%E8%A6%81%E7%BB%A7%E7%BB%AD%E5%85%B3%E6%B3%A8%E7%9A%84%E9%97%AE%E9%A2%98)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ---
 title: "message based transaction"
 date: 2016-07-11 10:00

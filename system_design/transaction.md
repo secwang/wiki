@@ -1,3 +1,17 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [分布式事务实现对比问题](#%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1%E5%AE%9E%E7%8E%B0%E5%AF%B9%E6%AF%94%E9%97%AE%E9%A2%98)
+  - [问题](#%E9%97%AE%E9%A2%98)
+    - [oceanbase](#oceanbase)
+    - [cockroachdb](#cockroachdb)
+    - [tidb](#tidb)
+    - [lealone](#lealone)
+    - [总结](#%E6%80%BB%E7%BB%93)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ---
 title: "distributed transaction"
 date: 2016-07-11 10:00

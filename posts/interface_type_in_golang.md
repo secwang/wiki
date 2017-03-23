@@ -1,3 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Method receiver](#method-receiver)
+- [Little metaprogramming](#little-metaprogramming)
+- [Pointer ](#pointer)
+- [Interface design](#interface-design)
+- [Assignments with interface types](#assignments-with-interface-types)
+- [reference:](#reference)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ---
 title: "interface type in golang"
 date: 2013-09-20 7:00

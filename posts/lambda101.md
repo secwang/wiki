@@ -1,3 +1,24 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+  - [图灵机与 lambda calculus](#%E5%9B%BE%E7%81%B5%E6%9C%BA%E4%B8%8E-lambda-calculus)
+- [图灵机](#%E5%9B%BE%E7%81%B5%E6%9C%BA)
+  - [图灵机的停机问题](#%E5%9B%BE%E7%81%B5%E6%9C%BA%E7%9A%84%E5%81%9C%E6%9C%BA%E9%97%AE%E9%A2%98)
+  - [lambda calculus](#lambda-calculus)
+      - [Lambda Calculus Syntax](#lambda-calculus-syntax)
+      - [currying](#currying)
+    - [Free vs Bound Identifiers](#free-vs-bound-identifiers)
+    - [Lambda Calculus Evaluation Rules](#lambda-calculus-evaluation-rules)
+      - [Alpha 转换](#alpha-%E8%BD%AC%E6%8D%A2)
+      - [Beta简化](#beta%E7%AE%80%E5%8C%96)
+    - [Church Numerals](#church-numerals)
+    - [Booleans and Choice in Lambda Calculus](#booleans-and-choice-in-lambda-calculus)
+      - [Y combiner](#y-combiner)
+    - [From Lambda calculus to Combinator Calculus](#from-lambda-calculus-to-combinator-calculus)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ---
 title: "lambda calculus and turing machine"
 date: 2014-02-14 08:00

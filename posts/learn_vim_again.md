@@ -1,3 +1,22 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [learning vim again.](#learning-vim-again)
+    - [Basic command](#basic-command)
+    - [Movement tricks](#movement-tricks)
+      - [tricks in insert mode](#tricks-in-insert-mode)
+      - [What the range means](#what-the-range-means)
+      - [tricks for ex mode](#tricks-for-ex-mode)
+    - [tricks for marcos](#tricks-for-marcos)
+    - [understand register](#understand-register)
+    - [tricks for search](#tricks-for-search)
+    - [tricks for subtitute](#tricks-for-subtitute)
+    - [vbundle system](#vbundle-system)
+      - [useful bundle and usage](#useful-bundle-and-usage)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ---
 title: learn vim again 
 date: 2013-10-14 09:00

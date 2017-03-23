@@ -1,3 +1,23 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [what I'm short for practical vim user.](#what-im-short-for-practical-vim-user)
+- [appearance](#appearance)
+- [replace](#replace)
+- [ctags](#ctags)
+- [call shell](#call-shell)
+- [Explore](#explore)
+- [vim tabs](#vim-tabs)
+- [global marks](#global-marks)
+- [filelist](#filelist)
+- [my open nav file work flow](#my-open-nav-file-work-flow)
+- [add markdown space](#add-markdown-space)
+- [Vim bytes](#vim-bytes)
+- [execute shell command](#execute-shell-command)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ---  
 title: "vim"   
 date: 2016-11-18 23:00  

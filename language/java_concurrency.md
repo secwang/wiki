@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+    - [java thread join](#java-thread-join)
+    - [manage java lifecycle](#manage-java-lifecycle)
+    - [overview of thread pool](#overview-of-thread-pool)
+- [executorSerivice](#executorserivice)
+- [park(),unpark,compareAndSwap ae in native java.](#parkunparkcompareandswap-ae-in-native-java)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ---
 title: "java concurrency"
 date: 2016-06-30 08:00

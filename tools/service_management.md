@@ -1,3 +1,12 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [netflix serive manage related project](#netflix-serive-manage-related-project)
+- [定义微服务](#%E5%AE%9A%E4%B9%89%E5%BE%AE%E6%9C%8D%E5%8A%A1)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ---
 title: "service management"
 date: 2016-09-20 23:00

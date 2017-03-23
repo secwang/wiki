@@ -1,3 +1,19 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Heading](#heading)
+- [Pragraphs break and line break.](#pragraphs-break-and-line-break)
+- [Text attributes](#text-attributes)
+- [Blockquotes](#blockquotes)
+- [List](#list)
+- [Horizontal rules](#horizontal-rules)
+- [Email](#email)
+- [code blocks](#code-blocks)
+- [Images](#images)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ---
 title: "markdown"
 date: 2016-07-01 11:00

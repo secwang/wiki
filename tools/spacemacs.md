@@ -1,3 +1,12 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [spacemacs usage](#spacemacs-usage)
+- [redo last command](#redo-last-command)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ---
 title: "spacemacs"
 date: 2016-06-30 23:00

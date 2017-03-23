@@ -1,3 +1,17 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [update key name](#update-key-name)
+- [find things](#find-things)
+- [update emptykey](#update-emptykey)
+- [drop table or collection](#drop-table-or-collection)
+- [mongo imoprt csv](#mongo-imoprt-csv)
+- [mongo find like](#mongo-find-like)
+- [mongo dump](#mongo-dump)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ---
 title: "mongo"
 date: 2016-11-25 23:00

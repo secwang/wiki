@@ -1,3 +1,13 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Resources](#resources)
+- [workflow to exec java byte code](#workflow-to-exec-java-byte-code)
+- [java Use of Constants, Local Variables, and Control Constructs](#java-use-of-constants-local-variables-and-control-constructs)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ---
 title: "java bytecode"
 date: 2016-11-19 08:00
