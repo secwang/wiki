@@ -13,6 +13,7 @@
   - [java](/language/java)
   - [java_bytecode](/language/java_bytecode)
   - [java_concurrency](/language/java_concurrency)
+  - [latex](/language/latex)
   - [lua](/language/lua)
   - [markdown.md](/language/markdown)
   - [perl.md](/language/perl)

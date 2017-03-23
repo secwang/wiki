@@ -15,5 +15,6 @@ All points in a plane the same distance from a given point (drawn with a compass
 The points (x,y) in the equation x2 + y2 = r2 (analytic version of the geometric definition above)  
 The points in the equation r · sin(t),r · cos(t), for all t (really analytic version)  
 The shape whose tangent line is always perpendicular to the position vector (physical interpretation)”  
-
-\\[ {e}^{i\pi } 1=0 \\]
+$$
+{e}^{i\pi } 1=0 
+$$
