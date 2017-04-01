@@ -23,6 +23,7 @@
   - [algorithms](/misc/algorithms)
   - [bloomfilter](/misc/bloomfilter)
   - [multiplexing](/misc/multiplexing)
+  - [invest](/misc/invest)
 - **posts**
   - [cloure_in_go](/posts/cloure_in_go)
   - [goroutine](/posts/goroutine)
