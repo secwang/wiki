@@ -1,30 +1,32 @@
 ## how to calculate price
+$$
 price=P/E Ratio
-\times \cfrac{Net profit}{Net sales}
-\times \cfrac{Net Sales}{Total Assets}
-\cfrac{assets - liabilities}{ number of outstanding shares}
-\times \cfrac{TotalAssets}{Stockholder's Equity}
+\times \frac{Net profit}{Net sales}
+\times \frac{Net Sales}{Total Assets}
+\times \frac{assets - liabilities}{ number of outstanding shares}
+\times \frac{TotalAssets}{Stockholder's Equity}
 $$
 
 
 $$
-Net Profit Ratio = \cfrac{Net profit}{Net sales}
+Net Profit Ratio = \frac{Net profit}{Net sales}
 $$
 
 $$
-Asset Turnover Ratio = \cfrac{Net Sales}{AverageTotalAssets}
+Asset Turnover Ratio = \frac{Net Sales}{AverageTotalAssets}
 $$
 
 $$
-Equity Multiplie = \cfrac{TotalAssets}{Stockholder's Equity}
+Equity Multiplie = \frac{TotalAssets}{Stockholder's Equity}
 $$
 
 
 $$
- Net Asset Value Per Share = \cfrac{assets - liabilities}{ number of outstanding shares}
+ Net Asset Value Per Share = \frac{assets - liabilities}{ number of outstanding shares}
 $$
+  
 $$
-Earnings Per Share = \cfrac{Net Income - Preferred Dividends}{Share Outstanding}
+Earnings Per Share = \frac{Net Income - Preferred Dividends}{Share Outstanding}
 $$
 
 
