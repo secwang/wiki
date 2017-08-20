@@ -7,6 +7,10 @@ price=P/E Ratio
 \times \frac{TotalAssets}{Stockholder's Equity}
 $$
 
+$$
+price = P/E \times \frac{Net profit}{number of outstanding shares}
+$$
+
 
 $$
 Net Profit Ratio = \frac{Net profit}{Net sales}
@@ -30,3 +34,4 @@ Earnings Per Share = \frac{Net Income - Preferred Dividends}{Share Outstanding}
 $$
 
 
+## buffett free cash flow

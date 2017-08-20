@@ -138,3 +138,13 @@ vim -b bytefile
 :! luajit %
 q:k<CR>
 ```
+
+
+## deal with json
+:set filetype=json
+:syntax on
+:set fdm=syntax
+
+
+:h fold-commands - zo - open and zc - close –
+./tools/vim.md
