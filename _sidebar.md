@@ -4,9 +4,10 @@
 - **Book**
   - [the_linux_programming_interface](/book/the_linux_programming_interface)
   - [math_better_explained](/book/math_better_explained)
-- **System_Design**
-  - [message-based-transaction](/system_design/message-based-transaction)
-  - [transaction](/system_design/transaction)
+- **Programming Area**
+  - [message-based-transaction](/programming_area/message-based-transaction)
+  - [transaction](/programming_area/transaction)
+  - [r_and_machine_learning](/programming_area/r_and_machine_learning)
 - **language**
   - [c](/language/c)
   - [coredata](/language/coredata)
